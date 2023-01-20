@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+adftotxt/__init__.py
+adftotxt/adftotxt.py
+adftotxt/test.py
+adftotxt.egg-info/PKG-INFO
+adftotxt.egg-info/SOURCES.txt
+adftotxt.egg-info/dependency_links.txt
+adftotxt.egg-info/top_level.txt

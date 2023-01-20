@@ -1,0 +1,5 @@
+dist
+tokens
+upload.sh
+adftotxt/__pycache__
+adftotxt/test.py

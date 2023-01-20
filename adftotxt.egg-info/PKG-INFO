@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: adftotxt
+Version: 0.0.9
+Summary: Convert ADF (Atlassian Document Format) to Plain Texts
+Home-page: UNKNOWN
+Author: Koushik Choudhury
+Author-email: <koushikchoudhury0@gmail.com>
+License: UNKNOWN
+Keywords: python,atlassian,adf,text,simpletext
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+ADF is basically JSON Document. To use it in places like Google Sheet, it needs to parsed and converted to Simple Texts. This is what is being done here.
+
